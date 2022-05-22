@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4WFyAOSnfI7fpikTWkJRcZ2a07T6/v7r80/qM5W4H9+7UO77TS66SIAYdddhlnZt1q8zk0RmWGs3TAUWn/J1TQ==",
+  "dgSpecHash": "MDMd6qxEEm4TEKI1+kCxk1DCF3DtZnnTgmSN5B4Mloz/PB/MHqswFvXk0CDw4viiSlJjsSc+PzeaDeroi+axuQ==",
   "success": true,
-  "projectFilePath": "C:\\Code\\Chapter03\\Chapter03\\Operators\\Operators.csproj",
+  "projectFilePath": "C:\\Code\\training\\CSharpCore6\\Chapter03\\Chapter03\\Operators\\Operators.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
